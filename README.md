@@ -1,4 +1,13 @@
 # Weather JS app
 
-This is an app the show the weather when given a location
-It uses the OpenWeatherMap API, JavaScript class and Async Await
+### Introduction
+
+This is an app the show the weather when given a location.
+
+### Technologies
+
+- Vanilla JavaScript
+- Boostrap 5
+- Fetch API
+- Async Await
+- ES6 Class
